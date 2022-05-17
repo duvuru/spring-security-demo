@@ -1,2 +1,5 @@
 server:
   port: 8088
+
+root:
+  password: $2a$10$neShgfY722fdAkI8I5zxF.NENMmGjkqZTfpi9ZCqCgx3TbmgqDMUS
